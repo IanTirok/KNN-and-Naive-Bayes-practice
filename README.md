@@ -1,7 +1,7 @@
 # KNN-and-Naive-Bayes-practice
 Week 9 IP
 
-# Titanic dataset analysis
+# Titanic dataset and Spambase dataset analysis
 Moringa Data Science Core W8 Independent Project
 
 <!-- ABOUT THE PROJECT -->
